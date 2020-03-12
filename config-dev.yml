@@ -1,2 +1,2 @@
-logging:
-  level: info
+config:
+  info: "version 1"
